@@ -1,0 +1,10 @@
+*.xls
+*.gzip
+bin
+include
+lib
+*.~
+chromedriver*
+__pycache__
+.DS_Store
+.Python
